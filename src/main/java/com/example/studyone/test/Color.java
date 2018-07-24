@@ -1,4 +1,4 @@
-//package com.example.studyone.test;
+//package com.example.studyone.TestColloection;
 //
 //public enum Color {
 //    RED("红色", 1), BLUE("蓝色", 2);

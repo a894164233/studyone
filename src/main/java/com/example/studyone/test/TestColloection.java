@@ -1,8 +1,8 @@
-package com.example.test;
+package com.example.studyone.test;
 
 import java.util.*;
 
-public class test {
+public class TestColloection {
 
     public static void main(String[] args) {
         List<String> list = new ArrayList();

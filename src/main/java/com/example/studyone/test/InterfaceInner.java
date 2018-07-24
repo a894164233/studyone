@@ -1,4 +1,4 @@
-package com.example.studyone;
+package com.example.studyone.test;
 
 public abstract class InterfaceInner {
 

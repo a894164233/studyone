@@ -50,11 +50,11 @@ public class test {
 //    }
 //
 //    public static class Te{
-//        private String test = "test";
+//        private String TestColloection = "TestColloection";
 //        public Te() {
 //        }
 //        public void Te(){
-//            System.out.printf(this.test);
+//            System.out.printf(this.TestColloection);
 //        }
 //    }
 }
